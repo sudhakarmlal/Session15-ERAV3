@@ -5,11 +5,17 @@ SMOLLM2 Model  Configurations:
 ## Model Statistics:
 
 Total Parameters: 688,702,098
+
 Model Size: 2627.19 MB
+
 Device: cpu
+
 Batch Size: 4
+
 Accumulation Steps: 8
+
 Sequence Length: 256
+
 Learning Rate: 0.0001
 
 MultiHead Latent Attention used to reduce the parameters count
