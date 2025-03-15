@@ -63,8 +63,11 @@ Learning Rate: 0.0001
 
 Epoch 1/5
 Step 0, Loss: 46.5964, Scaled Loss: 5.8246, LR: 4.00e-06, Accumulation Step: 1/8
+
 Step 10, Loss: 46.2109, Scaled Loss: 5.7764, LR: 4.00e-06, Accumulation Step: 3/8
+
 Step 20, Loss: 45.8798, Scaled Loss: 5.7350, LR: 4.00e-06, Accumulation Step: 5/8
+
 Step 30, Loss: 45.1243, Scaled Loss: 5.6405, LR: 4.00e-06, Accumulation Step: 7/8
 Step 40, Loss: 44.5579, Scaled Loss: 5.5697, LR: 4.00e-06, Accumulation Step: 1/8
 Step 50, Loss: 44.0808, Scaled Loss: 5.5101, LR: 4.00e-06, Accumulation Step: 3/8
